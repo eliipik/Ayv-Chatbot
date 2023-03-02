@@ -1,4 +1,8 @@
 # Ayv
+Ayv is an Slack chatbot that connects Gmail account to an Slack channel.
+Ayv provides basic functionalities such as searching for emails Slack messages.
+
+Note that the Slack token used in the code is disabled and you need to create one for yourself. Use this link for info on how to issue new authentication tokens: https://slack.com/help/articles/215770388-Create-and-regenerate-API-tokens
 
 To run Ayv, you need:
 1. Node.js & npm installed.
